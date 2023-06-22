@@ -4,9 +4,9 @@ PREDICTING S&P 500 INDEX USING RANDOM FOREST CLASSIFIER
 
 To run the script, run the following in order that's found in src directory:
 
-01_Web_Scrape_ccd.ipynb
-02_Excploratory_Data_Analysis_ccd.ipynb
-03_RandomForestClassifier_3classes_ccd.ipynb
+- 01_Web_Scrape_ccd.ipynb
+- 02_Excploratory_Data_Analysis_ccd.ipynb
+- 03_RandomForestClassifier_3classes_ccd.ipynb
 
 ---
 
