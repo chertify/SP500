@@ -70,5 +70,5 @@ RANDOM FOREST CLASSIFIER ALGORITHM CLASSIFICATION REPORT FOR 2 VARIABLES
 
 ---
 
-Accuracy is 88% for 2 vars and 87% for all diff variables
-Precision, Recal, F1 Score are much improved for 2 independent variables than in all diff variable.
+Accuracy is 88% for 2 vars and 87% for all diff variables.
+Precision, Recall, and F1 Score are much improved for 2 independent variables than in all diff variable.
