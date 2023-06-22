@@ -2,6 +2,18 @@
 PREDICTING S&P 500 INDEX USING RANDOM FOREST CLASSIFIER
 ---
 
+To run the script, run the following in order that's found in src directory:
+
+01_Web_Scrape_ccd.ipynb
+02_Excploratory_Data_Analysis_ccd.ipynb
+03_RandomForestClassifier_3classes_ccd.ipynb
+
+---
+
+INTRODUCTION
+
+---
+
 S&P 500 is the world's most popular stock index. It is composed of 500 of the biggest publicly traded companies in the US like Apple, Amazon, Microsoft, and Tesla.
 
 This project aims predict the S&P500 Index using feature engineering, and building a Random Forest Classifier model. Data has been webscraped with the following variables:
