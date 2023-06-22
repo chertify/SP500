@@ -1,5 +1,5 @@
 ---
-INTRODUCTION
+PREDICTING S&P 500 INDEX USING RANDOM FOREST CLASSIFIER
 ---
 
 S&P 500 is the world's most popular stock index. It is composed of 500 of the biggest publicly traded companies in the US like Apple, Amazon, Microsoft, and Tesla.
